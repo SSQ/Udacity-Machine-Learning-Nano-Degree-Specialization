@@ -1,8 +1,8 @@
 # Machine Learning Nano Degree Specialization
 
-Course can be found in [Udacity]().
+Course can be found in [Udacity](https://www.udacity.com/).
 
-Partial notes can be found in my [Blog](https://ssq.github.io/2017/02/06/Udacity%20MLND%20Notebook/)
+Partial notes can be found in my blog [SSQ](https://ssq.github.io/2017/02/06/Udacity%20MLND%20Notebook/)
 
 <table>
   <tr>
